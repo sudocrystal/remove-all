@@ -1,3 +1,3 @@
-def removeAll(list)
+def removeAll(x)
 
 end
