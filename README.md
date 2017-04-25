@@ -9,3 +9,6 @@ The call of `list.removeAll(3)` would remove all occurrences of the value 3 from
 [9, 4, 2, 8, 17, 4, 18]
 
 If the list is empty or the value doesn't appear in the list at all, then the list should not be changed by your method. You must preserve the original order of the elements of the list.
+
+## Problem Source
+This problem was taken from [UW's PracticeIt](https://practiceit.cs.washington.edu/problem/view/cs2/sections/linkedlists/removeAll)
