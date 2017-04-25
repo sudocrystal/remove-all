@@ -1,0 +1,3 @@
+def removeAll(list)
+
+end
